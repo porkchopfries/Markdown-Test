@@ -61,11 +61,4 @@ services:
 [![Vaultwarden](./vaultwarden_v1.png)](https://easypanel.io/docs/templates/vaultwarden#screenshots)
 [![Vaultwarden](./vaultwarden_v2.png)](https://easypanel.io/docs/templates/vaultwarden#screenshots)
 [![Vaultwarden](./vaultwarden_v3.png)](https://easypanel.io/docs/templates/vaultwarden#screenshots)
-# Markdown-Test
-# Markdown-Test
-# Markdown-Test
-# Markdown-Test
-# Markdown-Test
-# Markdown-Test
-# Markdown-Test
-# Markdown-Test
+
